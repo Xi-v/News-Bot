@@ -3,6 +3,8 @@
 
 ## Install
 
+### You will need Ollama installed for the News Summary feature, and you will need to pull the gemma3:1b model!!
+
 ### Linux
 To install first clone the github repo
 You will need git installed to be able to do this
